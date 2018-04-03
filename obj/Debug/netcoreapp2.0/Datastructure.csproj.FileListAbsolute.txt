@@ -1,0 +1,11 @@
+C:\Users\every\Desktop\app1\bin\Debug\netcoreapp2.0\Datastructure.deps.json
+C:\Users\every\Desktop\app1\bin\Debug\netcoreapp2.0\Datastructure.runtimeconfig.json
+C:\Users\every\Desktop\app1\bin\Debug\netcoreapp2.0\Datastructure.runtimeconfig.dev.json
+C:\Users\every\Desktop\app1\bin\Debug\netcoreapp2.0\Datastructure.dll
+C:\Users\every\Desktop\app1\bin\Debug\netcoreapp2.0\Datastructure.pdb
+C:\Users\every\Desktop\app1\obj\Debug\netcoreapp2.0\Datastructure.csprojResolveAssemblyReference.cache
+C:\Users\every\Desktop\app1\obj\Debug\netcoreapp2.0\Datastructure.csproj.CoreCompileInputs.cache
+C:\Users\every\Desktop\app1\obj\Debug\netcoreapp2.0\Datastructure.AssemblyInfoInputs.cache
+C:\Users\every\Desktop\app1\obj\Debug\netcoreapp2.0\Datastructure.AssemblyInfo.cs
+C:\Users\every\Desktop\app1\obj\Debug\netcoreapp2.0\Datastructure.dll
+C:\Users\every\Desktop\app1\obj\Debug\netcoreapp2.0\Datastructure.pdb

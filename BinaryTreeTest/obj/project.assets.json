@@ -196,6 +196,19 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
+      },
+      "Datastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.0",
+        "dependencies": {
+          "Microsoft.NETCore.App": "2.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Datastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Datastructure.dll": {}
+        }
       }
     }
   },
@@ -656,10 +669,16 @@
         "netstandard.library.2.0.0.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
+    },
+    "Datastructure/1.0.0": {
+      "type": "project",
+      "path": "../Datastructure.csproj",
+      "msbuildProject": "../Datastructure.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
+      "Datastructure >= 1.0.0",
       "Microsoft.NETCore.App >= 2.0.0"
     ]
   },
@@ -671,11 +690,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\every\\Desktop\\app1\\Datastructure.csproj",
-      "projectName": "Datastructure",
-      "projectPath": "C:\\Users\\every\\Desktop\\app1\\Datastructure.csproj",
+      "projectUniqueName": "C:\\Users\\every\\Desktop\\app1\\BinaryTreeTest\\BinaryTreeTest.csproj",
+      "projectName": "BinaryTreeTest",
+      "projectPath": "C:\\Users\\every\\Desktop\\app1\\BinaryTreeTest\\BinaryTreeTest.csproj",
       "packagesPath": "C:\\Users\\every\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\every\\Desktop\\app1\\obj\\",
+      "outputPath": "C:\\Users\\every\\Desktop\\app1\\BinaryTreeTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
@@ -695,7 +714,11 @@
       },
       "frameworks": {
         "netcoreapp2.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\every\\Desktop\\app1\\Datastructure.csproj": {
+              "projectPath": "C:\\Users\\every\\Desktop\\app1\\Datastructure.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
