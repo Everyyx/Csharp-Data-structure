@@ -1,0 +1,16 @@
+C:\Users\every\Desktop\app1\BuildTree\bin\Debug\netcoreapp2.0\BuildTree.deps.json
+C:\Users\every\Desktop\app1\BuildTree\bin\Debug\netcoreapp2.0\BuildTree.runtimeconfig.json
+C:\Users\every\Desktop\app1\BuildTree\bin\Debug\netcoreapp2.0\BuildTree.runtimeconfig.dev.json
+C:\Users\every\Desktop\app1\BuildTree\bin\Debug\netcoreapp2.0\BuildTree.dll
+C:\Users\every\Desktop\app1\BuildTree\bin\Debug\netcoreapp2.0\BuildTree.pdb
+C:\Users\every\Desktop\app1\BuildTree\bin\Debug\netcoreapp2.0\BinaryTreeTest.dll
+C:\Users\every\Desktop\app1\BuildTree\bin\Debug\netcoreapp2.0\Datastructure.dll
+C:\Users\every\Desktop\app1\BuildTree\bin\Debug\netcoreapp2.0\BinaryTreeTest.pdb
+C:\Users\every\Desktop\app1\BuildTree\bin\Debug\netcoreapp2.0\Datastructure.pdb
+C:\Users\every\Desktop\app1\BuildTree\obj\Debug\netcoreapp2.0\BuildTree.csprojResolveAssemblyReference.cache
+C:\Users\every\Desktop\app1\BuildTree\obj\Debug\netcoreapp2.0\BuildTree.csproj.CoreCompileInputs.cache
+C:\Users\every\Desktop\app1\BuildTree\obj\Debug\netcoreapp2.0\BuildTree.AssemblyInfoInputs.cache
+C:\Users\every\Desktop\app1\BuildTree\obj\Debug\netcoreapp2.0\BuildTree.AssemblyInfo.cs
+C:\Users\every\Desktop\app1\BuildTree\obj\Debug\netcoreapp2.0\BuildTree.csproj.CopyComplete
+C:\Users\every\Desktop\app1\BuildTree\obj\Debug\netcoreapp2.0\BuildTree.dll
+C:\Users\every\Desktop\app1\BuildTree\obj\Debug\netcoreapp2.0\BuildTree.pdb
