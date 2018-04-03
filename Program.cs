@@ -31,6 +31,18 @@ namespace app1
             Console.WriteLine($"{myqueue.Dequeue()}");
             //Console.WriteLine($"{myqueue.Dequeue()}");
 
+            Tqueue<string> tqueue = new Tqueue<string>();
+            tqueue.Enqueue("first");
+            tqueue.Enqueue("second");
+            tqueue.Enqueue("third");
+            tqueue.Enqueue("last");
+            Console.WriteLine($"{tqueue.Dequeue()}");
+            Console.WriteLine($"{tqueue.Dequeue()}");
+            Console.WriteLine($"{tqueue.Dequeue()}");
+            Console.WriteLine($"{tqueue.Dequeue()}");
+
+            Console.ReadKey();
+
 
         }
     }

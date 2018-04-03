@@ -8,14 +8,14 @@ namespace  app1
 {
     public class Queue
     {
-        private const int DEFAULTQUEUESIZE100=5;
+        private const int DEFAULTQUEUESIZE=5;
         public int[] data;
         private int head=0,tail=0;
         private int numElements=0;
 
         public Queue()
         {
-            this.data= new int[DEFAULTQUEUESIZE100];
+            this.data= new int[DEFAULTQUEUESIZE];
         }
         public Queue(int size)
         {
